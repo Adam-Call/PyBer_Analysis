@@ -1,17 +1,3 @@
-
-
-    Overview of the analysis:
-        The purpose of the new analysis is well defined. (3 pt)
-
-    Results:
-        There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
-
-    Summary:
-        There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
-
-✓There is a description of the differences in the ride-sharing data for ALL SIX metrics by city type. 
-✓There is a statement summarizing THREE business recommendations addressing disparities among the city types.
-
 # PyBer_Analysis
 
 ## Overview of the Analysis
@@ -20,13 +6,13 @@ The purpose of this project is to create a data table that shows the differences
 
 ## Results
 
-Insert city_type_data.png
+![City_type_data](https://user-images.githubusercontent.com/80363261/115133751-4126ae00-9fd0-11eb-9cc0-ce52624ed2b6.png)
 
 Looking at the total rides by city we find that the urban cities have the largest number of rides, that is understandable given the greater population density. With the total drivers we see again that urban has the largest number however when compared to the number of rides given we see that there are more drivers than number of rides needed. This means taht wee have plenty of drivers to meet the demand for rides, however we should continue to track this trend as drivers not having rides to give could lead to driver turn over. The total fares collect shows a similar story with rural cities being the lowest and urban being the highest.
 
 By averaging the fares by ride we establish a base level of income by ride, we see a shift however with rural rides costing more than suburban and urban. If we pulled the length of rides we should see a correlation with rural rides being longer. Looking at the average fare earned by driver we see a large disparity between rual and urban with rural drivers earning over three times as urban drivers. This is a product of the factors brought up earlier assumed longer routes and fewer drivers meaning they can pick up multiple rides in a period.
 
-insert city_line_png
+![city_line](https://user-images.githubusercontent.com/80363261/115133768-56034180-9fd0-11eb-80bf-c7f9597e1e0a.png)
 
 Here we can see the weekly fares compared to each other. Rural cities are a small portion of the revenue stream could be possible to make increases there. 
 
